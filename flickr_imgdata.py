@@ -3,6 +3,8 @@
 # from FLickr via their API - image search can be modified      #
 # following this API method:                                    #
 # https://www.flickr.com/services/api/flickr.photos.search.html #
+# Using the flikckrapi Python module:                           #
+# http://stuvel.eu/flickrapi                                    #
 #################################################################
 
 # prints xml data format: 
