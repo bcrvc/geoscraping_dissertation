@@ -1,3 +1,8 @@
+####################################
+# parsing xml data documents with  #
+# Minimal DOM module               #
+####################################
+
 from xml.dom import minidom
 xmldoc = minidom.parse('******.xml')
 itemlist = xmldoc.getElementsByTagName('****') 
