@@ -1,8 +1,10 @@
-#################################
-# parses inserted xml data and  #
-# stores attributes (here URLs) #
-# into a .txt file              #
-#################################
+############################################################
+# parses inserted xml data and                             #
+# stores attributes (here URLs)                            #
+# into a .txt file    ---                                  #
+# To retireive images, os LTVT image grabber has been used:#
+# http://ltvt.wikispaces.com/Image+Grabber+-+URL+List+Mode #
+############################################################
 
 from lxml import etree
 xmllines = '''
