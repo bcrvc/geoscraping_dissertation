@@ -1,0 +1,4 @@
+# OpenStreetMap database http API call to find out the lat and lang of the location name 
+# documentation at: http://wiki.openstreetmap.org/wiki/API 
+
+http://open.mapquestapi.com/nominatim/v1/search?format=xml&q=**location_name**
