@@ -11,7 +11,7 @@ import json
 htmltext = urllib.urlopen('*******http://API-call********')
 data = json.load(htmltext)
 
-# open a .txt file 
+# open a .txt file where URLs will be saved
 myfile = open('urls.txt', 'w') 
 
 # extract all URLs and store them into a .txt file 
