@@ -3,6 +3,9 @@ script for getting the article data out of NYT API,
 extract the articles URLs and store them into a .txt file
 '''
 
+# future: improve for multiple pages (for page in rage?) 
+# and add a config file for easy user changes of API key, search querry etc.
+
 import urllib
 import json
 
