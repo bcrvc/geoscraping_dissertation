@@ -1,5 +1,5 @@
 '''
-script for getting the article data out of NYT API ...
+script for getting the article data out of NYT API 
 extract the articles URLs and store them into a .txt file
 '''
 
